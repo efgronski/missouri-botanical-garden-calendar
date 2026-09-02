@@ -1,0 +1,772 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Missouri Botanical Garden Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Missouri Botanical Garden
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+SUMMARY:🌿 Gardenscapes: Patterns in Bloom
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20260902T181010Z
+UID:mobot-c059bb4d8242166a30d7599d@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:Daily hours: 9:00 AM - 5:00 PM\n\nhttps://www.missouribotanica
+ lgarden.org/gardenscapes-patterns-in-bloom-3634
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/gardenscapes-patterns-in-bloom
+ -3634
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Patterns in Nature: The Art of HYBYCOZO
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260927
+DTSTAMP:20260902T181010Z
+UID:mobot-38b22c3d315f18b0884b6b91@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:Daily hours: 9:00 AM - 5:00 PM\n\nhttps://www.missouribotanica
+ lgarden.org/events-classes/special-exhibitions/patterns-in-nature-the-art-
+ of-hybycozo
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/events-classes/special-exhibit
+ ions/patterns-in-nature-the-art-of-hybycozo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Patterns in Nature: LightForm
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260927
+DTSTAMP:20260902T181010Z
+UID:mobot-b1f58997c2a29e869786dbcc@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:Daily hours: 6:00 PM - 9:00 PM\n\nhttps://www.missouribotanica
+ lgarden.org/events-classes/special-exhibitions/patterns-in-nature-the-art-
+ of-hybycozo
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/events-classes/special-exhibit
+ ions/patterns-in-nature-the-art-of-hybycozo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 The Literary Garden: The Cultivation of Plants and Gardens in
+  Narratives
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20270401
+DTSTAMP:20260902T181010Z
+UID:mobot-8db3ce14461bab3e4e399a71@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:Daily hours: 11:30 AM - 4:30 PM\n\nhttps://www.missouribotanic
+ algarden.org/the-literary-garden-the-cultivation-of-plants-and-gardens-in-
+ narratives-3622
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/the-literary-garden-the-cultiv
+ ation-of-plants-and-gardens-in-narratives-3622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Fall Class Registration
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20260902T181010Z
+UID:mobot-1ca61f526de7b4812761a469@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/learn-discover/class
+ es
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/learn-discover/classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Japanese Festival
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260907
+DTSTAMP:20260902T181010Z
+UID:mobot-b20aa8119ccaf8ce6bc29a3f@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:Daily hours: 9:00 AM - 9:00 PM\n\nhttps://www.missouribotanica
+ lgarden.org/events-classes/signature-events/japanese-festival
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/events-classes/signature-event
+ s/japanese-festival
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Japanese Festival
+DTSTART;TZID=America/Chicago:20260907T090000
+DTEND;TZID=America/Chicago:20260907T170000
+DTSTAMP:20260902T181010Z
+UID:mobot-1eff04f3e990b662d1cbed58@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/events-classes/signa
+ ture-events/japanese-festival
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/events-classes/signature-event
+ s/japanese-festival
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Story Time at the Sachs Museum
+DTSTART;TZID=America/Chicago:20260909T113000
+DTEND;TZID=America/Chicago:20260909T123000
+DTSTAMP:20260902T181010Z
+UID:mobot-c3a8140b3f3a37c45d57b6cc@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/story-time-at-the-sa
+ chs-museum-3666
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/story-time-at-the-sachs-museum
+ -3666
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Gateway West Gesneriad Society Show and Sale
+DTSTART;TZID=America/Chicago:20260912T090000
+DTEND;TZID=America/Chicago:20260912T170000
+DTSTAMP:20260902T181010Z
+UID:mobot-7a0f1ae50dc2f7ea06983904@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/gateway-west-gesneri
+ ad-society-show-and-sale-3343
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/gateway-west-gesneriad-society
+ -show-and-sale-3343
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Member Speaker Series: The Album of Plant Families: An Illust
+ rated Exploration of Nature's Beauty and Bounty
+DTSTART;TZID=America/Chicago:20260916T110000
+DTEND;TZID=America/Chicago:20260916T120000
+DTSTAMP:20260902T181010Z
+UID:mobot-32f05fea14c70c61dafae65a@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/member-speaker-serie
+ s-the-album-of-plant-families-an-illustrated-exploration-of-natures-beauty
+ -and-bounty-489
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/member-speaker-series-the-albu
+ m-of-plant-families-an-illustrated-exploration-of-natures-beauty-and-bount
+ y-489
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Sachs Museum Literary Learning Day: A Creative Field Study an
+ d Natural Gesture Community Day
+DTSTART;TZID=America/Chicago:20260919T113000
+DTEND;TZID=America/Chicago:20260919T163000
+DTSTAMP:20260902T181010Z
+UID:mobot-3c8c72392a491e1c70095272@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/sachs-museum-literar
+ y-learning-day-a-creative-field-study-and-natural-gesture-community-day-36
+ 54
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/sachs-museum-literary-learning
+ -day-a-creative-field-study-and-natural-gesture-community-day-3654
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Around the World Wine Dinner: Germany
+DTSTART;TZID=America/Chicago:20260923T183000
+DTEND;TZID=America/Chicago:20260923T210000
+DTSTAMP:20260902T181010Z
+UID:mobot-bb8a447ed94c57b70b4cdf27@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/events-classes/wine-
+ dinners
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/events-classes/wine-dinners
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Evening Talk: Vampire Scent Culture
+DTSTART;TZID=America/Chicago:20260924T180000
+DTEND;TZID=America/Chicago:20260924T200000
+DTSTAMP:20260902T181010Z
+UID:mobot-11b49bfe5d538f9e5cacbc07@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/evening-talk-vampire
+ -scent-culture-3657
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/evening-talk-vampire-scent-cul
+ ture-3657
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Webster Groves Herb Society Display
+DTSTART;TZID=America/Chicago:20260926T090000
+DTEND;TZID=America/Chicago:20260926T120000
+DTSTAMP:20260902T181010Z
+UID:mobot-9c2c7704dbbdd5ff88e48405@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/webster-groves-herb-
+ society-display-3341
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/webster-groves-herb-society-di
+ splay-3341
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Sachs Museum Literary Learning Day: Meet the Vampire Perfumer
+DTSTART;TZID=America/Chicago:20260926T113000
+DTEND;TZID=America/Chicago:20260926T163000
+DTSTAMP:20260902T181010Z
+UID:mobot-140cd0852b3e63545592f3c7@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/sachs-museum-literar
+ y-learning-day-meet-the-vampire-perfumer-3655
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/sachs-museum-literary-learning
+ -day-meet-the-vampire-perfumer-3655
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Fest-of-Ale
+DTSTART;TZID=America/Chicago:20261002T180000
+DTEND;TZID=America/Chicago:20261002T210000
+DTSTAMP:20260902T181010Z
+UID:mobot-934b32e1fdae1b46f801ed0d@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/fest-of-ale-3000
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/fest-of-ale-3000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Little Shop Art and Chair Sale
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261012
+DTSTAMP:20260902T181010Z
+UID:mobot-71152283528f747b492b0556@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:Daily hours: 10:00 AM - 5:00 PM\n\nhttps://www.missouribotanic
+ algarden.org/little-shop-art-and-chair-sale-3662
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/little-shop-art-and-chair-sale
+ -3662
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Best of Missouri Market
+DTSTART;TZID=America/Chicago:20261009T090000
+DTEND;TZID=America/Chicago:20261009T170000
+DTSTAMP:20260902T181010Z
+UID:mobot-67115e8ac7cd538b31a55255@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/events-classes/signa
+ ture-events/best-of-missouri-market
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/events-classes/signature-event
+ s/best-of-missouri-market
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Best of Missouri Market
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+DTSTAMP:20260902T181010Z
+UID:mobot-728eee411212cc1fc323637c@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:Daily hours: 9:00 AM - 5:00 PM\n\nhttps://www.missouribotanica
+ lgarden.org/events-classes/signature-events/best-of-missouri-market
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/events-classes/signature-event
+ s/best-of-missouri-market
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Indigenous Peoples' Day Observance
+DTSTART;TZID=America/Chicago:20261012T130000
+DTEND;TZID=America/Chicago:20261012T140000
+DTSTAMP:20260902T181010Z
+UID:mobot-bb13dd261cc46e3cfd7ed381@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/indigenous-peoples-d
+ ay-observance-3679
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/indigenous-peoples-day-observa
+ nce-3679
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Story Time at the Sachs Museum
+DTSTART;TZID=America/Chicago:20261014T113000
+DTEND;TZID=America/Chicago:20261014T123000
+DTSTAMP:20260902T181010Z
+UID:mobot-35d682305efe40fa7bdcd447@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/story-time-at-the-sa
+ chs-museum-3667
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/story-time-at-the-sachs-museum
+ -3667
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Sachs Museum Performance Series: Frets and Flora: Botanical T
+ hemes in Guitar Literature
+DTSTART;TZID=America/Chicago:20261017T110000
+DTEND;TZID=America/Chicago:20261017T120000
+DTSTAMP:20260902T181010Z
+UID:mobot-388b7b8b6f94693394ea682d@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/sachs-museum-perform
+ ance-series-frets-and-flora-botanical-themes-in-guitar-literature-3652
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/sachs-museum-performance-serie
+ s-frets-and-flora-botanical-themes-in-guitar-literature-3652
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Sachs Museum Performance Series: Frets and Flora: Botanical T
+ hemes in Guitar Literature
+DTSTART;TZID=America/Chicago:20261017T130000
+DTEND;TZID=America/Chicago:20261017T140000
+DTSTAMP:20260902T181010Z
+UID:mobot-0ce5ef229e3087525c0890ab@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/sachs-museum-perform
+ ance-series-frets-and-flora-botanical-themes-in-guitar-literature-3652
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/sachs-museum-performance-serie
+ s-frets-and-flora-botanical-themes-in-guitar-literature-3652
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Around the World Wine Dinner: Argentina
+DTSTART;TZID=America/Chicago:20261021T183000
+DTEND;TZID=America/Chicago:20261021T210000
+DTSTAMP:20260902T181010Z
+UID:mobot-bcb604872c580360a3fd0b9c@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/events-classes/wine-
+ dinners
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/events-classes/wine-dinners
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Spirits in the Garden
+DTSTART;TZID=America/Chicago:20261023T180000
+DTEND;TZID=America/Chicago:20261023T203000
+DTSTAMP:20260902T181010Z
+UID:mobot-ba0edb66aea8a5669db26f48@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/spirits-in-the-garde
+ n-1571
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/spirits-in-the-garden-1571
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Ghouls in the Garden
+DTSTART;TZID=America/Chicago:20261025T110000
+DTEND;TZID=America/Chicago:20261025T140000
+DTSTAMP:20260902T181010Z
+UID:mobot-c2cc7008096e0a7f09307bbe@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/ghouls-in-the-garden
+ -1165
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/ghouls-in-the-garden-1165
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Member Speaker Series: Beatrix Potter’s Botanical
+DTSTART;TZID=America/Chicago:20261026T110000
+DTEND;TZID=America/Chicago:20261026T120000
+DTSTAMP:20260902T181010Z
+UID:mobot-19d5a20ac6b9ac89c0de6980@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/member-speaker-serie
+ s-beatrix-potters-botanical-3505
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/member-speaker-series-beatrix-
+ potters-botanical-3505
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Seasonal Closures: Children's Garden and Tram Tours
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+DTSTAMP:20260902T181010Z
+UID:mobot-6832d6939f6e21fb61883eb9@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:Daily hours: 10:00 AM - 4:00 PM\n\nhttps://www.missouribotanic
+ algarden.org/seasonal-closures-childrens-garden-and-tram-tours-3308
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/seasonal-closures-childrens-ga
+ rden-and-tram-tours-3308
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Peter Wyse Jackson Distinguished Lecture on Global Plant Cons
+ ervation
+DTSTART;TZID=America/Chicago:20261105T171500
+DTEND;TZID=America/Chicago:20261105T190000
+DTSTAMP:20260902T181010Z
+UID:mobot-3137dfbd07414840795b0143@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/peter-wyse-jackson-d
+ istinguished-lecture-on-global-plant-conservation-3677
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/peter-wyse-jackson-distinguish
+ ed-lecture-on-global-plant-conservation-3677
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Indigenous Peoples Celebration
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20260902T181010Z
+UID:mobot-56ca826adfc45172c2bf5903@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:Daily hours: 9:00 AM - 5:00 PM\n\nhttps://www.missouribotanica
+ lgarden.org/indigenous-peoples-celebration-3420
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/indigenous-peoples-celebration
+ -3420
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Digging Deeper Member Tours
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20260902T181010Z
+UID:mobot-ee420118443b626d3c078684@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/digging-deeper-membe
+ r-tours-3678
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/digging-deeper-member-tours-36
+ 78
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Holiday Wreath Display and Auction
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20270103
+DTSTAMP:20260902T181010Z
+UID:mobot-4e927a12248f5935571b5669@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/holiday-wreath-displ
+ ay-and-auction-1740
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/holiday-wreath-display-and-auc
+ tion-1740
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Holly Jolly Market
+DTSTART;TZID=America/Chicago:20261110T090000
+DTEND;TZID=America/Chicago:20261110T160000
+DTSTAMP:20260902T181010Z
+UID:mobot-aadb6fd23e6f4db3c09ec2f0@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/holly-jolly-market-3
+ 484
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/holly-jolly-market-3484
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Little Shop Members Open House and Sale
+DTSTART;TZID=America/Chicago:20261110T100000
+DTEND;TZID=America/Chicago:20261110T160000
+DTSTAMP:20260902T181010Z
+UID:mobot-a1e19192c145a63f62b06a2b@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/little-shop-members-
+ open-house-and-sale-3475
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/little-shop-members-open-house
+ -and-sale-3475
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Member Speaker Series: Holiday Decorating
+DTSTART;TZID=America/Chicago:20261110T100000
+DTEND;TZID=America/Chicago:20261110T110000
+DTSTAMP:20260902T181010Z
+UID:mobot-da89645b2aba43ea41d0f29c@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/member-speaker-serie
+ s-holiday-decorating-2175
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/member-speaker-series-holiday-
+ decorating-2175
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Member Speaker Series: Holiday Decorating
+DTSTART;TZID=America/Chicago:20261110T140000
+DTEND;TZID=America/Chicago:20261110T150000
+DTSTAMP:20260902T181010Z
+UID:mobot-1011b28a643b3b612297285e@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/member-speaker-serie
+ s-holiday-decorating-2175
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/member-speaker-series-holiday-
+ decorating-2175
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Story Time at the Sachs Museum
+DTSTART;TZID=America/Chicago:20261111T113000
+DTEND;TZID=America/Chicago:20261111T123000
+DTSTAMP:20260902T181010Z
+UID:mobot-2d02e69637f99ceb239ea209@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/story-time-at-the-sa
+ chs-museum-3668
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/story-time-at-the-sachs-museum
+ -3668
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Garden Glow Member Preview Night
+DTSTART;TZID=America/Chicago:20261113T170000
+DTEND;TZID=America/Chicago:20261113T220000
+DTSTAMP:20260902T181010Z
+UID:mobot-70aa118058aabea5ff68490d@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/garden-glow-member-p
+ review-night-1236
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/garden-glow-member-preview-nig
+ ht-1236
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Holiday Flower and Train Show
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20270103
+DTSTAMP:20260902T181010Z
+UID:mobot-2f374ff5ffc7aa845324d633@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:Daily hours: 10:00 AM - 3:00 PM\n\nhttps://www.missouribotanic
+ algarden.org/holiday-flower-and-train-show-3312
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/holiday-flower-and-train-show-
+ 3312
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Garden Glow Opening Weekend
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20260902T181010Z
+UID:mobot-725403dcf2ecb9de40f8f7d8@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:Daily hours: 5:00 PM - 9:30 PM\n\nhttps://www.missouribotanica
+ lgarden.org/garden-glow-opening-weekend-3630
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/garden-glow-opening-weekend-36
+ 30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Little Shop China and Silverplate Sale
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261123
+DTSTAMP:20260902T181010Z
+UID:mobot-32203360b44ad02ca206f4e7@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:Daily hours: 10:00 AM - 4:00 PM\n\nhttps://www.missouribotanic
+ algarden.org/little-shop-china-and-silverplate-sale-3661
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/little-shop-china-and-silverpl
+ ate-sale-3661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Garden Glow
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20270103
+DTSTAMP:20260902T181010Z
+UID:mobot-b198163d41ca3401ec4b06d4@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:Daily hours: 5:00 PM - 9:30 PM\n\nhttps://www.missouribotanica
+ lgarden.org/garden-glow-1811
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/garden-glow-1811
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Closed on Thanksgiving
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20260902T181010Z
+UID:mobot-fd50b035b9c163d3af776dd2@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/closed-on-thanksgivi
+ ng-3617
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/closed-on-thanksgiving-3617
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Little Shop Small Business Sale
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+DTSTAMP:20260902T181010Z
+UID:mobot-b6ca396e37c4af166d1db61a@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:Daily hours: 10:00 AM - 4:00 PM\n\nhttps://www.missouribotanic
+ algarden.org/little-shop-small-business-sale-3413
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/little-shop-small-business-sal
+ e-3413
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Santa's Stop at the Garden for Members
+DTSTART;TZID=America/Chicago:20261205T103000
+DTEND;TZID=America/Chicago:20261205T130000
+DTSTAMP:20260902T181010Z
+UID:mobot-aa1ca422eb90cf8510c2bafc@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/santas-stop-at-the-g
+ arden-for-members-2834
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/santas-stop-at-the-garden-for-
+ members-2834
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Story Time at the Sachs Museum
+DTSTART;TZID=America/Chicago:20261209T113000
+DTEND;TZID=America/Chicago:20261209T123000
+DTSTAMP:20260902T181010Z
+UID:mobot-d923e47a01be33b9c7ec93c4@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/story-time-at-the-sa
+ chs-museum-3669
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/story-time-at-the-sachs-museum
+ -3669
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Closed Christmas Day
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20260902T181010Z
+UID:mobot-a05a72065457cc15aa07b59d@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/closed-christmas-day
+ -3431
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/closed-christmas-day-3431
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Story Time at the Sachs Museum
+DTSTART;TZID=America/Chicago:20270113T113000
+DTEND;TZID=America/Chicago:20270113T123000
+DTSTAMP:20260902T181010Z
+UID:mobot-9784a186fe4015eaa4ff4bc6@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/story-time-at-the-sa
+ chs-museum-3670
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/story-time-at-the-sachs-museum
+ -3670
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Orchid Nights
+DTSTART;TZID=America/Chicago:20270204T180000
+DTEND;TZID=America/Chicago:20270204T200000
+DTSTAMP:20260902T181010Z
+UID:mobot-b1867d4095ebaa6fff8b263c@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/orchid-nights-1825
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/orchid-nights-1825
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Story Time at the Sachs Museum
+DTSTART;TZID=America/Chicago:20270210T113000
+DTEND;TZID=America/Chicago:20270210T123000
+DTSTAMP:20260902T181010Z
+UID:mobot-25fb2c695d92c2684d418fc1@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/story-time-at-the-sa
+ chs-museum-3671
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/story-time-at-the-sachs-museum
+ -3671
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Orchid Nights
+DTSTART;TZID=America/Chicago:20270218T180000
+DTEND;TZID=America/Chicago:20270218T200000
+DTSTAMP:20260902T181010Z
+UID:mobot-3454901cce0245cc79edbaa8@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/orchid-nights-1825
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/orchid-nights-1825
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Story Time at the Sachs Museum
+DTSTART;TZID=America/Chicago:20270310T113000
+DTEND;TZID=America/Chicago:20270310T123000
+DTSTAMP:20260902T181010Z
+UID:mobot-47427a6b39dbb6cb1200af66@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/story-time-at-the-sa
+ chs-museum-3672
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/story-time-at-the-sachs-museum
+ -3672
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Sake and Sakura
+DTSTART;TZID=America/Chicago:20270402T173000
+DTEND;TZID=America/Chicago:20270402T200000
+DTSTAMP:20260902T181010Z
+UID:mobot-87b35a28fcd5ff0e4010c11b@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/sake-and-sakura-2263
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/sake-and-sakura-2263
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Chinese Culture Days
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270503
+DTSTAMP:20260902T181010Z
+UID:mobot-488163fe5fbcd3f4154571be@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:Daily hours: 9:00 AM - 5:00 PM\n\nhttps://www.missouribotanica
+ lgarden.org/events-classes/signature-events/chinese-culture-days
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/events-classes/signature-event
+ s/chinese-culture-days
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Grapes in the Garden
+DTSTART;TZID=America/Chicago:20270507T173000
+DTEND;TZID=America/Chicago:20270507T203000
+DTSTAMP:20260902T181010Z
+UID:mobot-f4c2bb09f399d782469a7a46@mobot-calendar
+SEQUENCE:0
+DESCRIPTION:\nhttps://www.missouribotanicalgarden.org/grapes-in-the-garden
+ -1274
+LOCATION:Missouri Botanical Garden\n4344 Shaw Blvd\nSt. Louis\, MO 63110
+STATUS:CONFIRMED
+URL:https://www.missouribotanicalgarden.org/grapes-in-the-garden-1274
+END:VEVENT
+END:VCALENDAR
