@@ -22,8 +22,21 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
+
+      - name: Refresh SSL certificates
+        run: |
+          sudo apt-get update
+          sudo apt-get install --reinstall -y ca-certificates
+          python -m pip install --upgrade certifi
+          python -c "import certifi; print(certifi.where())"
+      
+      - name: Test Garden connection
+        run: |
+          python -c "import requests; r=requests.get('https://www.missouribotanicalgarden.org/events-classes/calendar', timeout=30); print('Status:', r.status_code)"
+      
       - run: pytest
       - run: python -m mobot_calendar
+      
       - name: Commit updated feed
         run: |
           if git diff --quiet -- data/events.json output/mobot.ics; then
