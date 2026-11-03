@@ -30,38 +30,29 @@ jobs:
           python -m pip install --upgrade certifi
           python -c "import certifi; print(certifi.where())"
 
-      - name: Inspect Garden certificate chain
+      - name: Add missing Garden intermediate certificate
         run: |
-          for host in www.missouribotanicalgarden.org missouribotanicalgarden.org; do
-            echo ""
-            echo "===== $host ====="
+          # Download the intermediate certificate from DigiCert
+          curl --fail --show-error --location \
+            https://cacerts.digicert.com/GeoTrustTLSRSACAG1.crt.pem \
+            --output "$RUNNER_TEMP/geotrust-intermediate.pem"
 
-            openssl s_client \
-              -connect "$host:443" \
-              -servername "$host" \
-              -showcerts </dev/null 2>/dev/null |
-              awk -v prefix="/tmp/$host" '
-                /BEGIN CERTIFICATE/ {
-                  n++
-                  file=prefix "-" n ".pem"
-                }
-                file {print > file}
-                /END CERTIFICATE/ {
-                  close(file)
-                  file=""
-                }
-                END {
-                  print "Certificates sent by server:", n+0
-                }
-              '
+          # Confirm the certificate we downloaded
+          openssl x509 \
+            -in "$RUNNER_TEMP/geotrust-intermediate.pem" \
+            -noout -subject -issuer -dates
 
-            for cert in /tmp/"$host"-*.pem; do
-              [ -f "$cert" ] || continue
-              echo "--- Certificate details ---"
-              openssl x509 -in "$cert" -noout \
-                -subject -issuer -dates
-            done
-          done
+          # Combine it with the normal certifi trust bundle
+          cat "$(python -c 'import certifi; print(certifi.where())')" \
+            "$RUNNER_TEMP/geotrust-intermediate.pem" \
+            > "$RUNNER_TEMP/requests-ca-bundle.pem"
+
+          # Tell Python requests to use the combined bundle
+          echo "REQUESTS_CA_BUNDLE=$RUNNER_TEMP/requests-ca-bundle.pem" >> "$GITHUB_ENV"
+
+      - name: Test Garden connection
+        run: |
+          python -c "import requests; r=requests.get('https://www.missouribotanicalgarden.org/events-classes/calendar', timeout=30); print('Status:', r.status_code); r.raise_for_status()"
           
       - run: pytest
       - run: python -m mobot_calendar
