@@ -30,23 +30,39 @@ jobs:
           python -m pip install --upgrade certifi
           python -c "import certifi; print(certifi.where())"
 
-      - name: Diagnose Garden SSL certificate
+      - name: Inspect Garden certificate chain
         run: |
-          echo "===== WWW DOMAIN ====="
-          openssl s_client \
-            -connect www.missouribotanicalgarden.org:443 \
-            -servername www.missouribotanicalgarden.org \
-            -showcerts -verify_return_error \
-            </dev/null 2>&1 | grep -E 'depth=|verify error|Verify return code|subject=|issuer=' || true
+          for host in www.missouribotanicalgarden.org missouribotanicalgarden.org; do
+            echo ""
+            echo "===== $host ====="
 
-          echo ""
-          echo "===== ROOT DOMAIN ====="
-          openssl s_client \
-            -connect missouribotanicalgarden.org:443 \
-            -servername missouribotanicalgarden.org \
-            -showcerts -verify_return_error \
-            </dev/null 2>&1 | grep -E 'depth=|verify error|Verify return code|subject=|issuer=' || true
+            openssl s_client \
+              -connect "$host:443" \
+              -servername "$host" \
+              -showcerts </dev/null 2>/dev/null |
+              awk -v prefix="/tmp/$host" '
+                /BEGIN CERTIFICATE/ {
+                  n++
+                  file=prefix "-" n ".pem"
+                }
+                file {print > file}
+                /END CERTIFICATE/ {
+                  close(file)
+                  file=""
+                }
+                END {
+                  print "Certificates sent by server:", n+0
+                }
+              '
 
+            for cert in /tmp/"$host"-*.pem; do
+              [ -f "$cert" ] || continue
+              echo "--- Certificate details ---"
+              openssl x509 -in "$cert" -noout \
+                -subject -issuer -dates
+            done
+          done
+          
       - run: pytest
       - run: python -m mobot_calendar
 
