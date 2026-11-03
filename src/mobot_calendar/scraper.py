@@ -67,8 +67,7 @@ class GardenScraper:
     def __init__(self, session: requests.Session | None = None, timeout: int = 30):
         self.session = session or requests.Session()
         self.timeout = timeout
-        self.session.headers.update({"User-Agent": "MoBotCalendar/0.1 (personal calendar feed; twice-daily fetch)"})
-
+        
     def scrape(self) -> list[GardenEvent]:
         try:
             response = self.session.get(CALENDAR_URL, timeout=self.timeout)
