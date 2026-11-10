@@ -12,7 +12,7 @@
       "daily_hours": "9:00 AM - 5:00 PM",
       "status": "confirmed",
       "first_seen": "2026-09-02T18:09:13+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -54,7 +54,7 @@
       "daily_hours": "11:30 AM - 4:30 PM",
       "status": "confirmed",
       "first_seen": "2026-09-02T18:09:13+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -530,7 +530,7 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-10-12T23:44:29+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -600,7 +600,21 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-09-02T18:09:13+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
+      "missing_count": 0
+    },
+    {
+      "title": "Holiday Wreath Display and Auction",
+      "start_date": "2026-11-09",
+      "end_date": "2027-01-02",
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "url": "http://mobot.org/wreathauction",
+      "all_day": true,
+      "daily_hours": null,
+      "status": "confirmed",
+      "first_seen": "2026-11-10T00:50:15+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -615,7 +629,7 @@
       "status": "confirmed",
       "first_seen": "2026-09-02T18:09:13+00:00",
       "last_seen": "2026-11-09T14:14:58+00:00",
-      "missing_count": 0
+      "missing_count": 1
     },
     {
       "title": "Member Appreciation Days",
@@ -628,7 +642,7 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-11-03T04:50:05+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -642,7 +656,7 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-09-02T18:10:10+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -656,7 +670,7 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-09-02T18:10:10+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -684,7 +698,7 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-11-03T04:50:05+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -712,7 +726,7 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-11-03T04:50:05+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -726,7 +740,7 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-09-02T18:10:10+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -740,7 +754,7 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-09-02T18:10:10+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -754,7 +768,7 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-11-03T04:50:05+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -768,7 +782,7 @@
       "daily_hours": "9:00 AM - 4:00 PM",
       "status": "confirmed",
       "first_seen": "2026-10-06T21:51:23+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -796,7 +810,7 @@
       "daily_hours": "5:00 PM - 9:30 PM",
       "status": "confirmed",
       "first_seen": "2026-09-02T18:09:13+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -810,7 +824,7 @@
       "daily_hours": "10:00 AM - 4:00 PM",
       "status": "confirmed",
       "first_seen": "2026-09-02T18:09:13+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -824,7 +838,7 @@
       "daily_hours": "5:00 PM - 9:30 PM",
       "status": "confirmed",
       "first_seen": "2026-09-02T18:09:13+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -838,7 +852,7 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-09-02T18:10:10+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -852,7 +866,7 @@
       "daily_hours": "10:00 AM - 4:00 PM",
       "status": "confirmed",
       "first_seen": "2026-09-02T18:09:13+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -866,7 +880,7 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-09-02T18:10:10+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -880,7 +894,7 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-11-03T04:50:05+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -894,7 +908,7 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-09-02T18:10:10+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -908,7 +922,7 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-09-02T18:10:10+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -922,7 +936,49 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-11-03T22:29:20+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
+      "missing_count": 0
+    },
+    {
+      "title": "Little Shop Around the Corner Year-End Clearance Sale",
+      "start_date": "2026-12-26",
+      "end_date": "2026-12-27",
+      "start_time": "10:00",
+      "end_time": "16:00",
+      "url": "https://www.missouribotanicalgarden.org/little-shop-around-the-corner-year-end-clearance-sale-3687",
+      "all_day": true,
+      "daily_hours": "10:00 AM - 4:00 PM",
+      "status": "confirmed",
+      "first_seen": "2026-11-10T00:50:15+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
+      "missing_count": 0
+    },
+    {
+      "title": "Little Shop Around the Corner Year-End Clearance Sale",
+      "start_date": "2026-12-30",
+      "end_date": "2026-12-31",
+      "start_time": "10:00",
+      "end_time": "16:00",
+      "url": "https://www.missouribotanicalgarden.org/little-shop-around-the-corner-year-end-clearance-sale-3687",
+      "all_day": true,
+      "daily_hours": "10:00 AM - 4:00 PM",
+      "status": "confirmed",
+      "first_seen": "2026-11-10T00:50:15+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
+      "missing_count": 0
+    },
+    {
+      "title": "Little Shop Around the Corner Seasonal Closure",
+      "start_date": "2027-01-01",
+      "end_date": "2027-02-02",
+      "start_time": "00:00",
+      "end_time": "00:00",
+      "url": "https://www.missouribotanicalgarden.org/little-shop-around-the-corner-seasonal-closure-3689",
+      "all_day": true,
+      "daily_hours": null,
+      "status": "confirmed",
+      "first_seen": "2026-11-10T00:50:15+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -936,7 +992,21 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-09-02T18:10:10+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
+      "missing_count": 0
+    },
+    {
+      "title": "Member Speaker Series: Intervention: The Science and Story of Saving a Species",
+      "start_date": "2027-01-19",
+      "end_date": "2027-01-19",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "url": "https://www.missouribotanicalgarden.org/member-speaker-series-intervention-the-science-and-story-of-saving-a-species-1172",
+      "all_day": false,
+      "daily_hours": null,
+      "status": "confirmed",
+      "first_seen": "2026-11-10T00:50:15+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -950,7 +1020,21 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-11-03T04:50:05+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
+      "missing_count": 0
+    },
+    {
+      "title": "Little Shop Around the Corner Welcome Back Sale",
+      "start_date": "2027-02-03",
+      "end_date": "2027-02-07",
+      "start_time": "10:00",
+      "end_time": "16:00",
+      "url": "https://www.missouribotanicalgarden.org/little-shop-around-the-corner-welcome-back-sale-3688",
+      "all_day": true,
+      "daily_hours": "10:00 AM - 4:00 PM",
+      "status": "confirmed",
+      "first_seen": "2026-11-10T00:50:15+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -964,7 +1048,7 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-09-02T18:10:10+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -978,7 +1062,7 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-09-02T18:10:10+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -992,7 +1076,7 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-09-02T18:10:10+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -1006,7 +1090,21 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-11-03T04:50:05+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
+      "missing_count": 0
+    },
+    {
+      "title": "Members Speaker Series: When Trees Testify",
+      "start_date": "2027-02-23",
+      "end_date": "2027-02-23",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "url": "https://www.missouribotanicalgarden.org/members-speaker-series-when-trees-testify-2690",
+      "all_day": false,
+      "daily_hours": null,
+      "status": "confirmed",
+      "first_seen": "2026-11-10T00:50:15+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -1020,7 +1118,7 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-09-02T18:10:10+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -1034,7 +1132,7 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-11-03T04:50:05+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -1048,7 +1146,7 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-09-02T18:10:10+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -1062,7 +1160,7 @@
       "daily_hours": "9:00 AM - 5:00 PM",
       "status": "confirmed",
       "first_seen": "2026-09-02T18:09:13+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -1076,7 +1174,7 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-09-02T18:10:10+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -1090,7 +1188,7 @@
       "daily_hours": "9:00 AM - 9:00 PM",
       "status": "confirmed",
       "first_seen": "2026-09-08T20:10:16+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     },
     {
@@ -1104,7 +1202,7 @@
       "daily_hours": null,
       "status": "confirmed",
       "first_seen": "2026-09-08T20:10:16+00:00",
-      "last_seen": "2026-11-09T14:14:58+00:00",
+      "last_seen": "2026-11-10T00:50:15+00:00",
       "missing_count": 0
     }
   ]
